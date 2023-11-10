@@ -1,8 +1,7 @@
-w[[redirects]]
+[[redirects]]
 from="/*"
-to="/"
+to="/index.html"
 status=200
 
 [functions]
-  directory = "functions"
-w
+directory = "functions"
